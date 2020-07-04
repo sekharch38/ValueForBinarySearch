@@ -1,0 +1,6 @@
+D:\WCF\ValueSearchBSA\ValueSearchBSA\bin\Debug\ValueSearchBSA.exe.config
+D:\WCF\ValueSearchBSA\ValueSearchBSA\obj\Debug\ValueSearchBSA.csprojResolveAssemblyReference.cache
+D:\WCF\ValueSearchBSA\ValueSearchBSA\bin\Debug\ValueSearchBSA.exe
+D:\WCF\ValueSearchBSA\ValueSearchBSA\bin\Debug\ValueSearchBSA.pdb
+D:\WCF\ValueSearchBSA\ValueSearchBSA\obj\Debug\ValueSearchBSA.exe
+D:\WCF\ValueSearchBSA\ValueSearchBSA\obj\Debug\ValueSearchBSA.pdb
